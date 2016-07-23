@@ -128,7 +128,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 defaults:
   # _posts
-  - scope:
+  scope:
       path: ""
       type: posts
     values:

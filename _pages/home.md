@@ -25,5 +25,4 @@ feature_row:
   - image_path: unsplash-gallery-image-3-th.jpg
     title: "Random Musings"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-
 ---

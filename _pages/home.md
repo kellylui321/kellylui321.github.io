@@ -9,7 +9,7 @@ header:
   caption: "Highrise buildings in Western District, Hong Kong. Photo credit: Kelly Lui"
 excerpt: "Insert witty quote here."
 intro:
-  - excerpt: 'Insert *sweet* bio here.'
+  - excerpt: 'This is the personal website of Kelly (Hoi-Lee) Lui. I was born and raised in Hong Kong and received my bachelor degree in political science and economics at Georgetown University, Washington DC. I'm currently working in Hong Kong, but I still see myself as a student and hope to call myself a scholar one day. I continue to study topics within my areas of interest, particularly on political economy in China and Hong Kong, among others. The blog section on the website serves as a collection of more scattered thoughts or general musings about life as a self-proclaimed cultural nomad.'
 feature_row:
   - image_path: HK_2012.jpg
     alt: "placeholder image 1"
@@ -44,9 +44,9 @@ feature_row4:
 ---
 
 {% include feature_row id="intro" type="center" %}
-<center>Hong Kong, Cape Town, DC.</center>
+
 {% include feature_row %}
-<center>Around the world and back.</ceter>
+
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}

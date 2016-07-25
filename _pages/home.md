@@ -45,6 +45,7 @@ feature_row4:
 
 This is the personal website of Kelly Lui. I was born and raised in Hong Kong and received my bachelor degree in poliitcal science and economics from Georgetown University. I'm currently working for an airline company in Hong Kong, but in my own time, I write research essays and commentary on topics that interest me, including political economy in China and Hong Kong, among others. The blog section on the website serves as a collection of more scattered thoughts or general musings about life as a self-proclaimed cultural nomad.
 
+
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}

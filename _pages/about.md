@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-layout: splash
+layout: single
 date: 2016-07-25T10:24:24+08:00
 header:
   overlay_color: "#000"

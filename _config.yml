@@ -11,7 +11,7 @@ title                    : "Kelly Lui"
 title_separator          : "-"
 name                     : "Kelly Lui"
 description              : "My personal website."
-url                      : "https://kellylui321.github.io/"
+url                      : "https://kellylui321.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : "Buildings.jpeg"

@@ -43,7 +43,7 @@ feature_row4:
     btn_class: "btn--inverse"
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/image-alignment-150x150.jpg){: .align-left}This is the personal website of Kelly Lui. I was born and raised in Hong Kong and received my bachelor degree in poliitcal science and economics from Georgetown University. I write research essays and commentary on topics in my areas of interest, particularly on political economy in China and Hong Kong, among others. The blog section on the website serves as a collection of more scattered thoughts or general musings about life as a self-proclaimed cultural nomad.
+![image-left](Buildings.jpeg){: .align-left}This is the personal website of Kelly Lui. I was born and raised in Hong Kong and received my bachelor degree in poliitcal science and economics from Georgetown University. I write research essays and commentary on topics in my areas of interest, particularly on political economy in China and Hong Kong, among others. The blog section on the website serves as a collection of more scattered thoughts or general musings about life as a self-proclaimed cultural nomad.
 
 {% include feature_row %}
 

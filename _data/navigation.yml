@@ -2,9 +2,12 @@
 main:
   - title: "About"
     url: https://kellylui321.github.io/about/
+
   - title: "Research"
     url: /https://kellylui321.github.io/research/
+
  - title: "Blog"
     url: /https://kellylui321.github.io/blog/
+
  - title: "Contact"
     url: /https://kellylui321.github.io/contact/

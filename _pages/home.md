@@ -10,7 +10,6 @@ header:
 excerpt: "Insert witty quote here."
 
 ---
-intro: 
-  - excerpt: 'Insert self intro here `type="center"`'
+`type="center"`
 # Splash page, image, short intro, three categories
 # All posts, Research and Commentary, Random Musings

@@ -16,7 +16,7 @@ feature_row:
     excerpt: ' '
   - image_path: CapeTown_2016.jpg
     alt: "placeholder image 2"
-    excerpt: ' '
+    title: 'Wanderlust'
   - image_path: DC_2015.jpg
     alt: "placeholder image 3"
     excerpt: ' '

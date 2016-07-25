@@ -31,13 +31,14 @@ feature_row3:
     url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-feature_row3:
+feature_row4:
   - image_path: IMG_7911.jpg
     title: "Source"
     excerpt: 'If you're interested in the code behind this site.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+
 ---
 
 {% include feature_row id="intro" type="center" %}

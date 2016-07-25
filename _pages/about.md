@@ -4,7 +4,7 @@ permalink: /about/
 layout: splash
 date: 2016-07-25T10:24:24+08:00
 header:
-  overlay_image: HK-buildings.jpg
+  overlay_image: IMG_7911.jpg
 ---
 ##
 title: "Splash Page"

@@ -1,5 +1,3 @@
-# Splash page, image, short intro, three categories
-# All posts, Research and Commentary, Random Musings
 ---
 title: "About"
 permalink: /about/
@@ -10,3 +8,5 @@ header:
   overlay_filter: "0.1"
   overlay_image: IMG_7911.jpg
 ---
+# Splash page, image, short intro, three categories
+# All posts, Research and Commentary, Random Musings

@@ -34,7 +34,6 @@ feature_row3:
 feature_row4:
   - image_path: IMG_7911.jpg
     title: "Source"
-    excerpt: 'If you're interested in the code behind this site.'
 ---
 
 {% include feature_row id="intro" type="center" %}

@@ -8,8 +8,6 @@ header:
   overlay_image: IMG_7911.jpg
   caption: "Highrise buildings in Western District, Hong Kong. Photo credit: Kelly Lui"
 excerpt: "Insert witty quote here."
-intro:
-  - excerpt: <center>Insert sweet bio here.</center>
 feature_row:
   - image_path: unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"

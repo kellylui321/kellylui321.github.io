@@ -16,10 +16,10 @@ feature_row:
     caption: 'Hong Kong, 2012'
   - image_path: CapeTown_2016.jpg
     alt: "placeholder image 2"
-    excerpt: 'Cape Town, 2016'
+    caption: 'Cape Town, 2016'
   - image_path: DC_2015.jpg
     alt: "placeholder image 3"
-    excerpt: 'Washington, DC, 2015'
+    caption: 'Washington, DC, 2015'
 feature_row2:
   - image_path: Georgetown_2015.jpg
     title: "Research"

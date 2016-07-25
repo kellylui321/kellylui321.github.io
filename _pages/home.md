@@ -38,7 +38,6 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-
 ---
 
 {% include feature_row id="intro" type="center" %}

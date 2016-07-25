@@ -43,7 +43,7 @@ feature_row4:
     btn_class: "btn--inverse"
 ---
 
-{% include feature_row id="intro" type="left" %}
+{% include feature_row id="intro" type="justify" %}
 
 {% include feature_row %}
 

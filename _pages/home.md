@@ -8,8 +8,9 @@ header:
   overlay_image: IMG_7911.jpg
   caption: "Highrise buildings in Western District, Hong Kong. Photo credit: Kelly Lui"
 excerpt: "Insert witty quote here."
+
+---
 intro: 
   - excerpt: 'Insert self intro here `type="center"`'
----
-<center># Splash page, image, short intro, three categories</center>
+# Splash page, image, short intro, three categories
 # All posts, Research and Commentary, Random Musings

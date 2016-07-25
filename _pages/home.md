@@ -13,10 +13,10 @@ intro:
 feature_row:
   - image_path: HK_2012.jpg
     alt: "placeholder image 1"
-    excerpt: 'Hong Kong, 2012"
+    excerpt: 'Hong Kong, 2012'
   - image_path: CapeTown_2016.jpg
     alt: "placeholder image 2"
-    excerpt: 'Cape Town, 2016"
+    excerpt: 'Cape Town, 2016'
   - image_path: DC_2015.jpg
     alt: "placeholder image 3"
     excerpt: 'Washington, DC, 2015'

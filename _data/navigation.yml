@@ -1,4 +1,3 @@
-# main links
 main:
   - title: "About"
     url: /about/
@@ -6,8 +5,5 @@ main:
   - title: "Research"
     url: /research/
 
- - title: "Blog"
+  - title: "Blog"
     url: /blog/
-
- - title: "Contact"
-    url: /contact/

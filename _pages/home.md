@@ -9,7 +9,7 @@ header:
   caption: "Highrise buildings in Western District, Hong Kong. Photo credit: Kelly Lui"
 excerpt: "Insert witty quote here."
 intro:
-  - excerpt: 'Insert **sweet** bio here.'
+  - excerpt: 'Insert *sweet* bio here.'
 feature_row:
   - image_path: unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"

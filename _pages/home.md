@@ -28,6 +28,13 @@ feature_row3:
   - image_path: Buildings.jpeg
     title: "Blog"
     excerpt: 'Travel journal, food, random musings.'
+    url: "/blog/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+feature_row4:
+  - image_path: IMG_7911.jpg
+    title: "Source"
+    excerpt: 'If you're interested in the code behind this site.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"

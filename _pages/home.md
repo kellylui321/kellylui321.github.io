@@ -13,13 +13,10 @@ intro:
 feature_row:
   - image_path: HK_2012.jpg
     alt: "placeholder image 1"
-    caption: "All Posts"
   - image_path: CapeTown_2016.jpg
     alt: "placeholder image 2"
-    caption: "Cape Town"
   - image_path: DC_2015.jpg
     alt: "placeholder image 3"
-    caption: "My second home."
 feature_row2:
   - image_path: Georgetown_2015.jpg
     alt: "placeholder image 2"

@@ -10,5 +10,5 @@ header:
 excerpt: "Insert witty quote here."
 
 ---
-# Splash page, image, short intro, three categories`type="center"`
-# All posts, Research and Commentary, Random Musings
+<center>#Splash page, image, short intro, three categories</center>
+##All posts, Research and Commentary, Random Musings

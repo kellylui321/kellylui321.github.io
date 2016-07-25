@@ -21,6 +21,13 @@ feature_row2:
   - image_path: Georgetown_2015.jpg
     title: "Research"
     excerpt: 'Short articles and commentary on topics of my interest, in cluding but not limited to Hong Kong, China, and political economy in general.'
+    url: "/research/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+feature_row3:
+  - image_path: Buildings.jpeg
+    title: "Blog"
+    excerpt: 'Travel journal, food, random musings.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"

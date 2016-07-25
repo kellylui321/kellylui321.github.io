@@ -17,32 +17,28 @@ feature_row:
     alt: "placeholder image 2"
   - image_path: DC_2015.jpg
     alt: "placeholder image 3"
----
-
 feature_row2:
   - image_path: Georgetown_2015.jpg
-    alt: "placeholder image 2"
     title: "Research"
-    excerpt: 'These are mostly researched-essays or commentary on topics of my interest, including but not limited to Hong Kong, China, political economy in general.'
+    excerpt: 'Short articles and commentary on topics of my interest, in cluding but not limited to Hong Kong, China, and political economy in general.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row3:
   - image_path: Buildings.jpeg
-    alt: "placeholder image 2"
     title: "Blog"
-    excerpt: 'These are more casual writings. Travel journal, food, random musings.'
+    excerpt: 'Travel journal, food, random musings.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row4:
   - image_path: IMG_7911.jpg
-    alt: "placeholder image 2"
     title: "Source"
     excerpt: 'If you're interested in the code behind this site.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+---
 
 {% include feature_row id="intro" type="center" %}
 

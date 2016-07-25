@@ -14,13 +14,43 @@ feature_row:
   - image_path: HK_2012.jpg
     alt: "placeholder image 1"
     caption: "All Posts"
-  - image_path: CapeTown_2016.jpeg
+  - image_path: CapeTown_2016.jpg
     alt: "placeholder image 2"
     caption: "Cape Town"
   - image_path: DC_2015.jpg
     alt: "placeholder image 3"
     caption: "My second home."
+feature_row2:
+  - image_path: Georgetown_2015.jpg
+    alt: "placeholder image 2"
+    title: "Research"
+    excerpt: 'These are mostly researched-essays or commentary on topics of my interest, including but not limited to Hong Kong, China, political economy in general.'
+    url: "/research/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+feature_row3:
+  - image_path: Buildings.jpeg
+    alt: "placeholder image 2"
+    title: "Blog"
+    excerpt: 'These are more casual writings. Travel journal, food, random musings.'
+    url: "/blog/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+feature_row4:
+  - image_path: IMG_7911.jpg
+    alt: "placeholder image 2"
+    title: "Source"
+    excerpt: 'If you're interested in the code behind this site.'
+    url: "/source/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="left" %}

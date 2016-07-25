@@ -25,7 +25,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "Research"
     excerpt: 'These are mostly researched-essays or commentary on topics of my interest, including but not limited to Hong Kong, China, political economy in general.'
-    url: "/research/"
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row3:
@@ -33,7 +33,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Blog"
     excerpt: 'These are more casual writings. Travel journal, food, random musings.'
-    url: "/blog/"
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 feature_row4:
@@ -41,7 +41,7 @@ feature_row4:
     alt: "placeholder image 2"
     title: "Source"
     excerpt: 'If you're interested in the code behind this site.'
-    url: "/source/"
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---

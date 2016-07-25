@@ -31,7 +31,7 @@ feature_row3:
     url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-feature_row4:
+feature_row3:
   - image_path: IMG_7911.jpg
     title: "Source"
     excerpt: 'If you're interested in the code behind this site.'
@@ -48,4 +48,4 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row3" type="left" %}

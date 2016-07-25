@@ -9,7 +9,7 @@ header:
   caption: "Highrise buildings in Western District, Hong Kong. Photo credit: Kelly Lui"
 excerpt: "Insert witty quote here."
 intro:
-  - excerpt: 'This is the personal website of Kelly (Hoi-Lee) Lui. I was born and raised in Hong Kong and received my bachelor degree in political science and economics at Georgetown University, Washington DC. I am currently working in Hong Kong, but I still see myself as a student and hope to call myself a scholar one day. I continue to study topics within my areas of interest, particularly on political economy in China and Hong Kong, among others. The blog section on the website serves as a collection of more scattered thoughts or general musings about life as a self-proclaimed cultural nomad.'
+  - excerpt: 'This is the personal website of Kelly (Hoi-Lee) Lui. I was born and raised in Hong Kong and received my bachelor degree in political science and economics at Georgetown University, Washington DC. I continue to study topics within my areas of interest, particularly on political economy in China and Hong Kong, among others. The blog section on the website serves as a collection of more scattered thoughts or general musings about life as a self-proclaimed cultural nomad.'
 feature_row:
   - image_path: HK_2012.jpg
     alt: "placeholder image 1"
@@ -23,7 +23,7 @@ feature_row:
 feature_row2:
   - image_path: Georgetown_2015.jpg
     title: "Research"
-    excerpt: 'Short articles and commentary on topics of my interest, in cluding but not limited to Hong Kong, China, and political economy in general.'
+    excerpt: 'Articles and commentary on topics of my interest, in cluding but not limited to Hong Kong, China, and political economy in general.'
     url: "/research/"
     btn_label: "Read More"
     btn_class: "btn--inverse"

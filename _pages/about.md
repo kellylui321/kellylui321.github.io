@@ -4,10 +4,9 @@ permalink: /about/
 layout: splash
 date: 2016-07-25T10:24:24+08:00
 header:
-  overlay_image: 
+  overlay_image: Buildings.jpeg
 ---
-
----
+##
 title: "Splash Page"
 layout: splash
 permalink: /splash-page/
@@ -61,7 +60,6 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
----
 
 {% include feature_row id="intro" type="center" %}
 

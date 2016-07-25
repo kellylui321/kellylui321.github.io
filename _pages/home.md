@@ -13,7 +13,7 @@ intro:
 feature_row:
   - image_path: HK_2012.jpg
     alt: "placeholder image 1"
-    excerpt: 'Hong Kong, 2012'
+    caption: 'Hong Kong, 2012'
   - image_path: CapeTown_2016.jpg
     alt: "placeholder image 2"
     excerpt: 'Cape Town, 2016'
@@ -45,7 +45,7 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row type="center" %}
+{% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
 

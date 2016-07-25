@@ -11,20 +11,15 @@ excerpt: "Insert witty quote here."
 intro:
   - excerpt: 'Insert *sweet* bio here.'
 feature_row:
-  - image_path: unsplash-gallery-image-1-th.jpg
+  - image_path: HK_2012.jpg
     alt: "placeholder image 1"
-    title: "All Posts"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: Buildings.jpeg
+    caption: "All Posts"
+  - image_path: CapeTown_2016.jpeg
     alt: "placeholder image 2"
-    title: "Research"
-    excerpt: "My research and commentary essays on China, Hong Kong, political economy and others."
-    url: "/research"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: unsplash-gallery-image-3-th.jpg
-    title: "Random Musings"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    caption: "Cape Town"
+  - image_path: DC_2015.jpg
+    alt: "placeholder image 3"
+    caption: "My second home."
 ---
 {% include feature_row id="intro" type="center" %}
 

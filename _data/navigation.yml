@@ -1,7 +1,14 @@
 # main links links
 main:
   - title: "About"
-    url: https://kellylui321.github.io/about.md/
+    url: https://kellylui321.github.io/about/
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "Research & Essays"
+    url: /https://kellylui321.github.io/research/
+
+ - title: "Blog"
+    url: /https://kellylui321.github.io/blog/
+  
+ - title: "Contact"
+    url: /https://kellylui321.github.io/contact/
+  

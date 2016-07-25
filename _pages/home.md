@@ -11,5 +11,5 @@ excerpt: "Insert witty quote here."
 intro: 
   - excerpt: 'Insert self intro here `type="center"`'
 ---
-# Splash page, image, short intro, three categories
+<center># Splash page, image, short intro, three categories</center>
 # All posts, Research and Commentary, Random Musings

@@ -36,7 +36,6 @@ feature_row4:
     title: "Source"
     excerpt: 'If you're interested in the code behind this site.'
     url: "#test-link"
-    btn_label: "Read More"
 ---
 
 {% include feature_row id="intro" type="center" %}

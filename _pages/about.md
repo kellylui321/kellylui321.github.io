@@ -4,6 +4,8 @@ permalink: /about/
 layout: splash
 date: 2016-07-25T10:24:24+08:00
 header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
   overlay_image: IMG_7911.jpg
 ---
 ##

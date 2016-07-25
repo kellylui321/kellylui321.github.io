@@ -43,7 +43,7 @@ feature_row4:
     btn_class: "btn--inverse"
 ---
 
-{% include feature_row id="intro" type="justify" %}
+![image-left]({{ site.url }}{{ site.baseurl }}/images/image-alignment-150x150.jpg){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**. {% include feature_row id="intro" type="justify" %}
 
 {% include feature_row %}
 

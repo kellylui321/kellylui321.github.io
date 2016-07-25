@@ -17,6 +17,8 @@ feature_row:
     alt: "placeholder image 2"
   - image_path: DC_2015.jpg
     alt: "placeholder image 3"
+---
+
 feature_row2:
   - image_path: Georgetown_2015.jpg
     alt: "placeholder image 2"
@@ -41,7 +43,6 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
----
 
 {% include feature_row id="intro" type="center" %}
 

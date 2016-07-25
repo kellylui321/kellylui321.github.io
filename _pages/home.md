@@ -9,5 +9,5 @@ header:
   caption: "Highrise buildings in Western District, Hong Kong. Photo credit: Kelly Lui"
 excerpt: "Insert witty quote here."
 ---
-<center>"#Splash page, image, short intro, three categories"</center>
+<center>*Splash page, image, short intro, three categories*</center>
 ##All posts, Research and Commentary, Random Musings

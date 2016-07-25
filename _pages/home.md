@@ -38,7 +38,7 @@ feature_row4:
   - image_path: IMG_7911.jpg
     title: "Source"
     excerpt: 'View source'
-    url: "#test-link"
+    url: "/source/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---

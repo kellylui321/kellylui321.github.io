@@ -6,7 +6,10 @@ header:
   image: IMG_7912.jpg
   caption: "Highrise buildings in Western District, Hong Kong. Photo credit: Kelly Lui"
 intro:
-  - excerpt: 'Do not go gentle into that good night,  Old age should burn and rave at close of day;  Rage, rage against the dying of the light.'
+  - excerpt: 'Do not go gentle into that good night,  
+Old age should burn and rave at close of day;  
+Rage, rage against the dying of the light.
+~ Dylan Thomas'
 feature_row:
   - image_path: HK_2012.jpg
     alt: "placeholder image 1"

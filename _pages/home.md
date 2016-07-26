@@ -41,7 +41,6 @@ feature_row4:
 ---
 {% include feature_row id="intro" type="center" %}
 <hr noshade>
-<hr noshade>
 {% include feature_row %}
 <hr noshade>
 <hr noshade>

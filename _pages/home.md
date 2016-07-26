@@ -8,8 +8,8 @@ header:
 intro:
   - title: Kelly Lui
   - excerpt: 'Do not go gentle into that good night,
-Old age should burn and rave at close of day;
-Rage, rage against the dying of the light.'
+  - Old age should burn and rave at close of day;
+  - Rage, rage against the dying of the light.'
 feature_row:
   - image_path: HK_2012.jpg
     alt: "placeholder image 1"

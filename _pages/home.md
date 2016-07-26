@@ -3,12 +3,10 @@ permalink: /
 layout: splash
 date: 2016-07-25T15:39:24+08:00
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.1"
-  overlay_image: IMG_7911.jpg
+  image: IMG_7911.jpg
   caption: "Highrise buildings in Western District, Hong Kong. Photo credit: Kelly Lui"
-excerpt: "Insert witty quote here."
 intro:
+  - title: Kelly Lui
   - excerpt: 'This is the personal website of Kelly Lui. I was born and raised in Hong Kong and received my bachelor degree in poliitcal science and economics from Georgetown University. I write research essays and commentary on various topics, such as political economy in China and Hong Kong, among others. The blog section on the website serves as a collection of more scattered thoughts or general musings about life as a self-proclaimed cultural nomad.'
 feature_row:
   - image_path: HK_2012.jpg

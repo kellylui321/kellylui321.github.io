@@ -35,9 +35,9 @@ feature_row3:
 feature_row4:
   - image_path: IMG_7911.jpg
     title: "Source"
-    excerpt: 'View source'
-    url: "/source/"
-    btn_label: "Read More"
+    excerpt: 'If you are interested in the source code of this website.'
+    url: "https://github.com/kellylui321/kellylui321.github.io"
+    btn_label: "View Source"
     btn_class: "btn--inverse"
 ---
 

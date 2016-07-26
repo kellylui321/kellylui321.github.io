@@ -7,8 +7,8 @@ header:
   caption: "Highrise buildings in Western District, Hong Kong. Photo credit: Kelly Lui"
 intro:
   - title: Kelly Lui
-  - excerpt: 'Do not go gentle into that good night,
-  - Old age should burn and rave at close of day;
+  - excerpt: 'Do not go gentle into that good night,  
+  - Old age should burn and rave at close of day;  
   - Rage, rage against the dying of the light.'
 feature_row:
   - image_path: HK_2012.jpg
@@ -37,7 +37,7 @@ feature_row3:
 feature_row4:
   - image_path: IMG_7911.jpg
     title: "Source"
-    excerpt: 'If you are interested in the source code of this website.'
+    excerpt: 'In case you are interested in the source code of this website.'
     url: "https://github.com/kellylui321/kellylui321.github.io"
     btn_label: "View Source"
     btn_class: "btn--inverse"

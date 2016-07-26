@@ -7,7 +7,9 @@ header:
   caption: "Highrise buildings in Western District, Hong Kong. Photo credit: Kelly Lui"
 intro:
   - title: Kelly Lui
-  - excerpt: 'This is the personal website of Kelly Lui. I was born and raised in Hong Kong and received my bachelor degree in poliitcal science and economics from Georgetown University. I write research essays and commentary on various topics, such as political economy in China and Hong Kong, among others. The blog section on the website serves as a collection of more scattered thoughts or general musings about life as a self-proclaimed cultural nomad.'
+  - excerpt: 'Do not go gentle into that good night,
+Old age should burn and rave at close of day;
+Rage, rage against the dying of the light.'
 feature_row:
   - image_path: HK_2012.jpg
     alt: "placeholder image 1"
@@ -40,8 +42,7 @@ feature_row4:
     btn_label: "View Source"
     btn_class: "btn--inverse"
 ---
-
-*This is the personal website of Kelly Lui. I was born and raised in Hong Kong and received my bachelor degree in poliitcal science and economics from Georgetown University. I'm currently working for an airline company in Hong Kong, but in my own time, I write research essays and commentary on topics that interest me, including political economy in China and Hong Kong, among others. The blog section on the website serves as a collection of more scattered thoughts or general musings about life as a self-proclaimed cultural nomad.*
+{% include feature_row id="intro" type="center" %}
 <hr noshade>
 <hr noshade>
 {% include feature_row %}

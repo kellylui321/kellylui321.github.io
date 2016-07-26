@@ -3,7 +3,7 @@ permalink: /
 layout: splash
 date: 2016-07-25T15:39:24+08:00
 header:
-  image: IMG_7911.jpg
+  image: IMG_7912.jpg
   caption: "Highrise buildings in Western District, Hong Kong. Photo credit: Kelly Lui"
 intro:
   - title: Kelly Lui

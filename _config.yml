@@ -161,6 +161,12 @@ defaults:
       share: true
       comments: true
 
+# Collections
+collections:
+  Research:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Conversion
 markdown: kramdown

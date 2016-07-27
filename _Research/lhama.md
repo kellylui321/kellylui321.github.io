@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "random note"
 excerpt: "hi hi byebye lkjlkj"
 header:

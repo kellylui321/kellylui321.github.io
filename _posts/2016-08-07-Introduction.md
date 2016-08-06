@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Introduction stream of consciousness 
+title: Introduction-stream of consciousness 
 header:
   image: IMG_8298.jpg
 categories: 
@@ -37,8 +37,4 @@ Recent events at home in Hong Kong have triggered many thoughts. This summer alo
 Beyond anger of the blatant injustices being conducted right in front of our eyes is a drowning wave of helplessness. What are we to do when none other than our own government turns against us? Who are we to turn to when injustices are being done to us? We have no voice in international society, and our government, instead of listening to our dissenting voices, shuts us down, betrays us, sprays tear gas on us. As a citizen of Hong Kong I feel oppressed everyday, voiceless, helpless.
 So much of who I am is tied to this strong faith that there is a way out, that I can be part of a movement that leads the way, not by inciting a revolution, but by reasonable negotiations, rational analysis, constructive propositions. But what if all that my dreams are built upon boils down to a bargain with the devil? I struggle to see light at the end of the tunnel. But I still believe there's light.
 
-4 
-
-A buzzfeed post to end this first post just because it's a beautiful collage: [link](https://www.buzzfeed.com/ahmedaliakbar/you-broke-the-ocean-in-half-to-be-here?utm_term=.whY0YlQpp#.piBap2q99)
- 
 Peace.

@@ -37,6 +37,6 @@ So much of who I am is tied to this strong faith that there is a way out, that I
 
 4 
 
-A buzzfeed post to end this first post [link](https://www.buzzfeed.com/ahmedaliakbar/you-broke-the-ocean-in-half-to-be-here?utm_term=.whY0YlQpp#.piBap2q99)
+A buzzfeed post to end this first post just because it's a beautiful collage: [link](https://www.buzzfeed.com/ahmedaliakbar/you-broke-the-ocean-in-half-to-be-here?utm_term=.whY0YlQpp#.piBap2q99)
  
 Peace.

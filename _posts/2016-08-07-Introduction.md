@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Introduction stream of consciousness 
+header:
+  image: IMG_8298.jpg
 categories: 
   - Blog
 tags:

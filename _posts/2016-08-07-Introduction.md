@@ -11,13 +11,13 @@ Traditional Chinese wisdom teaches that 萬事起頭難--the first step is alway
 
 This blog serves as a place where I try to put my often scattered thoughts into coherent sentences, and where I hope that my un-tested ideas, theories, philosophies, will be read and challenged by fellow netizens. Below are excerpts of a few thoughts that recently came into my mindspace:
 
-1.
+1. 
 
-Was reading Isaiah Berlin's "The Hedgehog and the Fox", an essay on Tolstoy's theory of history. Haven't finished reading it yet, so can't comment on how I feel about Tolstoy's theory of history. But what did really made an impression on me was this opening:
+Was reading Isaiah Berlin's "The Hedgehog and the Fox", an essay on Tolstoy's theory of history. Haven't finished reading it yet, so can't comment on how I feel about Tolstoy's theory of history. But what did really made an impression on me was this opening: 
 
-   "There is a line among the fragments of the Greek poet Archilochus which says: 'The fox knows many things, but the hedgehog knows one big thing.'"
+   "There is a line among the fragments of the Greek poet Archilochus which says: 'The fox knows many things, but the hedgehog knows one big thing.'" 
    
-Berlin went on to interpret that the hedgehog could be alluded to those who think and relate everything to "a single central vision, one system", while the fox could refer to those who are able to "seize upon the essence of a vast variety of experiences and objects" without trying to fit them into any one unifying system.
+Berlin went on to interpret that the hedgehog could be alluded to those who think and relate everything to "a single central vision, one system", while the fox could refer to those who are able to "seize upon the essence of a vast variety of experiences and objects" without trying to fit them into any one unifying system. 
 
 The paragraph struck me because--other than it being beautifully written--I found myself so firmly categorized into the hedgehog type--I, consciously or unconsciously, have emerged as a convergent thinker. Looking back I find most things that I'm interested in, or that I sought out to learn, or to understand, to always end up revolving around some central principle or purpose that I hold onto. At times it feels limiting, however. And doesn't existential crises strike hedgehogs more easily, when a single doubt about one's unified vision is sufficient to render a life's work worthless?
 

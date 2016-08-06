@@ -1,12 +1,11 @@
 ---
 layout: single
-title: Introduction: stream of consciousness 
+title: Introduction stream of consciousness 
 categories: 
   - Blog
 tags:
   - Blog
 ---
-12:22am | Aug 7 2016 | Hong Kong
 
 Traditional Chinese wisdom teaches that 萬事起頭難--the first step is always the hardest (yes, it sounds lamer in translation. Sounds super wise in Chinese). So here I am, somewhat reluctantly cranking out my first post. Many credits to a certain Captain Kirk who both pushed me to do this directly and who inspired me to start this website in the first place. Also a wise teacher of mine once acknowledged that all great writings are born out of imitation (plagiarism) of some form. So I guess beginning my original blog with words of others is, in a way, a step toward greatness ;)
 

@@ -2,7 +2,7 @@
 title: Some Thoughts on Singapore's Success-Engineering Economic Growth
 layout: single
 ---
-Our family developed a little bit of a crush on Lee Kuan-yew lately, after my brother visited Singapore.
+Our family developed a little bit of a crush on Lee Kuan Yew lately, after my brother visited Singapore.
 
 I’ve always intended to study Singapore, given the frequent comparison between the city-state and Hong Kong. But it is really upon close examination that I am impressed by what Singapore’s development experience has to offer. Henri Ghesquiere's book, titled "Singapore's Success: Engineering Economic Growth", is a good summary of the success Singapore has achieved, and a quick decomposition of the driving forces underlying its growth. 
 

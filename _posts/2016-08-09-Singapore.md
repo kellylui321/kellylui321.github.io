@@ -1,5 +1,5 @@
 ---
-title: Some Thoughts on "Singapore's Success: Engineering Economic Growth"
+title: Some Thoughts on Singapore's Success--Engineering Economic Growth
 layout: single
 ---
 Our family developed a little bit of a crush on Lee Kuan-yew lately, after my brother visited Singapore.

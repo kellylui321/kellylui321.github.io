@@ -1,5 +1,5 @@
 ---
-title: Some Thoughts on Singapore's Success-Engineering Economic Growth
+title: Singapore - Where East Meets West
 layout: single
 ---
 Our family developed a little bit of a crush on Lee Kuan Yew lately, after my brother visited Singapore.

@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Current Mood - The Last Goodbye
+header:
+  image: IMG_6207 (1).jpg
 categories: 
   - Blog
 tags:

@@ -25,3 +25,6 @@ Hong Kong actually has an identity crisis. Neither its government nor its people
 This conflict in identity between the government and the people is fundamental to understanding Hong Kong politics: a big, sad mess, where nothing productive or beneficial ever gets done. 
 The solution for Hong Kong lies in looking beyond identity politics--identity politics is only productive or meaningful, when both the identity of the governed is represented by the governing, whether by means of representative voting, or by other channels of gauging the people's hearts and minds. In Hong Kong, the governing assigns identity to the governed--because that's the way the power hierarchy works here, unfortunately.
 Understanding that, the only way out is in acknowledging that the one real, common identity to all Hong Kongers is simply that we all build our lives on this land.
+
+
+To be continued and substantiated.
